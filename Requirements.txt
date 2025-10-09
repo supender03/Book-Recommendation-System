@@ -1,11 +1,5 @@
-bash```
 Flask
-
 pandas
-
 scikit-learn
-
 Elasticsearch
-
 numpy
-```
